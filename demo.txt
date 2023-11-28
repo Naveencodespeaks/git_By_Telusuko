@@ -21,5 +21,13 @@
 # How to check the different change in the git
  Note: git diff
 
-# 
+# How to delete the file in the git 
+ Note: git rm --cached <fileName>
+# To see the content of the file 
+ Note: cat <file name>
+ ex: cat Readme.md
 
+# To see the list of the file 
+ Note: ls
+
+# 
