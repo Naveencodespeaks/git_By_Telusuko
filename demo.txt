@@ -10,5 +10,13 @@
  Note: git add <fileName>
 # Adding every file to the git
  Note: git add .
-#
+# knowing the use have logged or used 
+ Note: git log
+# how to commit
+Note: git commit -m "Here we can write the message that what you have made the change inthe code"
+      -m means message
+# How to skip the staging
+ Note: git commit -a -m "Write the message here"
+    -a means the skipping the staging and doing the commit
+
 
