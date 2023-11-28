@@ -1,0 +1,14 @@
+# To check git version
+ Note: git --version
+# To check git Status
+ Note: git Status
+# To inisalize the git 
+ Note: git init 
+# chaning the git branch 
+ Note: git init -b main
+#  Adding a file to the git
+ Note: git add <fileName>
+# Adding every file to the git
+ Note: git add .
+#
+
