@@ -30,4 +30,15 @@
 # To see the list of the file 
  Note: ls
 
-# 
+# To find the cursor 
+ Note: q
+
+# To create a branch (-c Means create)
+  Note: git switch -c "branch Name"
+# To create a branch in older version (-b means branch)
+  Note: git checkout -b "Branch Name"
+
+# To change the branch 
+ Note : git switch branchName
+# To change the base
+  Note: git base -a "Base Name"
