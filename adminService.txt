@@ -1,3 +1,6 @@
 add and remove service
 change the roles
 
+manage the database 
+
+
