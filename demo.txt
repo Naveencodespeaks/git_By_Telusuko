@@ -30,4 +30,6 @@
 # To see the list of the file 
  Note: ls
 
-# 
+# To clone the Project
+ Note: git  cone Https://Link
+
